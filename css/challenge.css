@@ -188,6 +188,10 @@ a:hover {
     display: grid;
     grid-template-columns: 100%;
   }
+  
+  a:hover {
+    box-shadow: none;
+  }
 
   .content {
     margin-right: 0px;
