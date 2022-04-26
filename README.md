@@ -460,8 +460,9 @@ Specify when the style change will happen in percent, or with the keywods `from`
 **Note:** The `!important` rule is ignored in a keyframe.
 
 **CSS Syntax:** 
+`@keyframes animationname {keyframes-selector {css-styles;}};`
 
-keyframes-selector: Percentage of the animation duration. Legal values: 0-100%, from(same as 0%), to(same as 100%). **Note:** You
+* keyframes-selector: Percentage of the animation duration. Legal values: 0-100%, from(same as 0%), to(same as 100%). **Note:** You
 can have many keyframes-selector in one animation.
 * animation-name: specifies a name for the `@keyframes` animation.
 
