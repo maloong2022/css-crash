@@ -321,6 +321,7 @@ position: static|absolute|fixed|relative|sticky|initial|inherit;
 - justify-content: It defined the item's column layout.
 - align-items: It defined the item's row layout.
 - align-self: Specifies the alignment for a a flex item(overrides the flex container's align-items property).
+
   [How Flexbox Works](https://www.freecodecamp.org/news/an-animated-guide-to-flexbox-d280cf6afc35/)
 - order: specifies the order of the flex items.
 
